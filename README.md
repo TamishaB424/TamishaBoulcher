@@ -19,4 +19,4 @@
 
 [twitter]:
 [instagram]: 
-[linkedin]: www.linkedin.com/in/tamisha-boulcher-20a681269
+[linkedin]: www.linkedin.com/in/tamishab
